@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2018 WaveOS
+
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-     http://www.apache.org/licenses/LICENSE-2.0
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -13,18 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Shore -->
-    <string name="shore_title">Shore</string>
-    <string name="shore_activity_summary">Where waves reach</string>
-
-    <!-- About phone screen, WaveOS version -->
-    <string name="wave_version">WaveOS version</string>
-    <string name="wave_version_default">Unknown</string>
-    <string name="keywords_wave_version">WaveOS version, wave version</string>
-
-    <!-- About phone screen, build date -->
-    <string name="build_date">Build date</string>
-    <string name="build_date_default">2015-01-01-0000</string>
-    <string name="keywords_build_date">build date, build info</string>
+    <color name="homepage_shore_background">#ff6868</color>
 
 </resources>

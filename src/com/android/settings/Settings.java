@@ -165,4 +165,7 @@ public class Settings extends SettingsActivity {
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
 
+    // Shore
+    public static class ShoreSettingsActivity extends SettingsActivity {}
+
 }
